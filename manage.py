@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+Updated once again!
 Updated
 """Django's command-line utility for administrative tasks."""
 import os
